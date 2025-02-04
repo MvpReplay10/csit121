@@ -1,1 +1,1 @@
-csit121 labs
+labs/lab01
