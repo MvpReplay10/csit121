@@ -1,0 +1,91 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #e0f3d7;
+    margin: 20px;
+    line-height: 1.6;
+  }
+  
+  nav {
+    background-color: #17273f;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    color: rgb(253, 253, 253);
+    margin-right: 15px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  table {
+    width: 100%;
+    color: #020000;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #000000;
+    padding: 30px;
+    text-align: center;
+    
+  }
+  
+  th {
+    background-color: #f1f1f1;
+    color: rgb(15, 14, 71);
+  }
+  td{
+    color: rgb(10, 10, 10);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+  }
+  img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  form {
+    background-color: rgb(249, 250, 252);
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 500px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, textarea, select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+caption{
+    color: rgb(10, 0, 0);
+}
+
+.tier-s{
+    background-color: rgb(221, 96, 96);
+}
+.tier-a{
+    background-color: #b43eb4;
+}
+.tier-b{
+    background-color: #2a9669;
+}
+.tier-c{
+    background-color: #6a68fa;
+}
+.tier-d{
+    background-color: #d3682a;
+}
